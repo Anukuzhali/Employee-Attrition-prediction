@@ -1,7 +1,6 @@
 # Employee-Attrition-prediction
 
 Introduction: 
-
     Our task was to predict employee attrition for the sales team of an Insurance Company which is struggling with high attrition rate. We have the monthly information for some employees for year 2016 and 2017 which includes input features for both train and test data. We are supposed to predict whether current employees, whose id is given in a separate csv file, will be leaving the organization in the upcoming two quarters (01 Jan 2018 - 01 July 2018) or not.
  
 Approach :
