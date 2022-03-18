@@ -28,4 +28,5 @@ With Random Forest Classifier we were able to get good F1 score of 0.79 and accu
 Our final model was LGBMclassifier with 10 fold cross validation with which we were able to get 0.717 f1 score in leaderboard
 
 
+![image](https://user-images.githubusercontent.com/91746088/158984337-2e84e6f4-1c25-4bfb-b5a5-e74b9e6fc8b5.png)
 
